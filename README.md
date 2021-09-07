@@ -1,7 +1,7 @@
 # ktor-sample
 Simple project kotlin server side ktor
 
-How to run
+## How to run
 
 Go open `CustomerTest.http`, you will found some request, try run some request such as `GET`, `POST`, `DELETE`
 
